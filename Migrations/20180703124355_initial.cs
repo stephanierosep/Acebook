@@ -30,7 +30,7 @@ namespace TodoApi.Migrations
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.SerialColumn),
                     UserId = table.Column<int>(nullable: false),
                     Content = table.Column<string>(nullable: false),
-                    DateCreated = table.Column<DateTime>(nullable: false, defaultValueSql: "GETUTCDATE()")
+                    //DateCreated = table.Column<DateTime>(nullable: false, defaultValueSql: "GETUTCDATE()")
                 },
                 constraints: table =>
                 {
@@ -42,7 +42,7 @@ namespace TodoApi.Migrations
                 column: "UserId",
                 principalTable: "Users",
                 principalColumn: "Id",
-                onDelete: "Cascade");
+                onDelete: ReferentialAction.Cascade);
 
         }
 

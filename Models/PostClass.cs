@@ -1,10 +1,11 @@
 ﻿using System;
 namespace Acebook.Models
 {
-    public class EmptyClass
+    public class Post
     {
-        public EmptyClass()
-        {
-        }
+        public long Id { get; set;  }
+        public int UserId { get; set; }
+        public string Content { get; set; }
+        //public DateTime DateCreated { get; set; }
     }
 }
