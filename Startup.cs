@@ -45,7 +45,7 @@ namespace Acebook
                 app.UseHsts();
             }
 
-            //app.UseHttpsRk\edirection();
+            //app.UseHttpsRedirection();
             app.UseMvc();
         }
     }
