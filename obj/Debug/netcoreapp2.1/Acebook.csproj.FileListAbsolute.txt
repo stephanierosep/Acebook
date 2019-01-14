@@ -1,0 +1,11 @@
+/Users/stephanieparker/Projects/Acebook/bin/Debug/netcoreapp2.1/Acebook.deps.json
+/Users/stephanieparker/Projects/Acebook/bin/Debug/netcoreapp2.1/Acebook.runtimeconfig.json
+/Users/stephanieparker/Projects/Acebook/bin/Debug/netcoreapp2.1/Acebook.runtimeconfig.dev.json
+/Users/stephanieparker/Projects/Acebook/bin/Debug/netcoreapp2.1/Acebook.dll
+/Users/stephanieparker/Projects/Acebook/bin/Debug/netcoreapp2.1/Acebook.pdb
+/Users/stephanieparker/Projects/Acebook/obj/Debug/netcoreapp2.1/Acebook.csprojAssemblyReference.cache
+/Users/stephanieparker/Projects/Acebook/obj/Debug/netcoreapp2.1/Acebook.csproj.CoreCompileInputs.cache
+/Users/stephanieparker/Projects/Acebook/obj/Debug/netcoreapp2.1/Acebook.AssemblyInfoInputs.cache
+/Users/stephanieparker/Projects/Acebook/obj/Debug/netcoreapp2.1/Acebook.AssemblyInfo.cs
+/Users/stephanieparker/Projects/Acebook/obj/Debug/netcoreapp2.1/Acebook.dll
+/Users/stephanieparker/Projects/Acebook/obj/Debug/netcoreapp2.1/Acebook.pdb
