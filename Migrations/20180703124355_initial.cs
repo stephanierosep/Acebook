@@ -36,6 +36,13 @@ namespace TodoApi.Migrations
                 {
                     table.PrimaryKey("PK_Id", x => x.Id);
                 });
+            migrationBuilder.AddForeignKey(
+                name: "FK_Posts_Users_UserId",
+                table: "Posts",
+                column: "UserId",
+                principalTable: "Users",
+                principalColumn: "Id",
+                onDelete: "Cascade");
 
         }
 
